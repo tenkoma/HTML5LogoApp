@@ -11,7 +11,7 @@ You can put a html5 logo in a dock.
 DOWNLOAD
 ---------------------------------------
 The dmg file is downloadable from github.
-https://github.com/downloads/tenkoma/HTML5LogoApp/html5logo.dmg
+[html5logo.dmg](https://github.com/downloads/tenkoma/HTML5LogoApp/html5logo.dmg)
 
 
 CREDITS
